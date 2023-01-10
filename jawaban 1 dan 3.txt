@@ -1,0 +1,16 @@
+1. REST adalah singkatan dari REpresentational State Transfer, merupakan gaya arsitektur perangkat lunak (atau pola desain perangkat lunak) yang dibuat untuk 
+memandu desain dan pengembangan arsitektur world wide web.Roy Fielding adalah orang pertama yang mempresentasikan pada tahun 2000 dalam disertasi Phdnya.
+API adalah singkatan dari Application Programming Interface yaitu sebuah software yang memungkinkan para developer untuk mengintegrasikan dan mengizinkan dua aplikasi 
+yang berbeda secara bersamaan untuk saling terhubung satu sama lain. jadi REST API merupakan salah satu dari desain arsitektur yang terdapat di dalam API itu sendiri.
+Nantinya data yang diberikan oleh REST server itu bisa berupa format text, JSON atau XML. Dan saat ini format yang paling sering digunakan adalah format JSON
+Adapun metode HTTP yang secara umum dipakai dalam REST api adalah:
+- GET, berfungsi untuk membaca data/resource dari REST server
+- POST, berfungsi untuk membuat sebuah data/resource baru di REST server
+- PUT, berfungsi untuk memperbaharui data/resource di REST server
+- DELETE, berfungsi untuk menghapus data/resource dari REST serve
+- OPTIONS, berfungsi untuk mendapatkan operasi yang disupport pada resource dari REST server.
+
+3. Headless architecture adalah konsep pengembangan software yang memisahkan lapisan frontend (antarmuka pengguna – UI) dan lapisan backend (logika bisnis) situs web.
+kelebihan di bandingkan menyajikan frontend secara langsung ialah tidak ada definisi khusus tentang bagaimana konten disajikan kepada pengguna akhir dan pembuatan dan 
+penyajian tidak lagi digabungkan. Hasilnya, konten mentah dapat dipublikasikan melalui kerangka apa pun dan mengakomodasi perangkat apa pun, hampir di mana saja.
+
